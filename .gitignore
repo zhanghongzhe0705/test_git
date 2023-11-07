@@ -1,0 +1,9 @@
+.idea
+composer.lock
+*.log
+/runtime/*
+/conf/*
+/public/html
+public/.htaccess
+/vendor/
+app/index/controller/Common.php
